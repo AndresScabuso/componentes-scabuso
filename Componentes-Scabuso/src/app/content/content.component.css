@@ -1,0 +1,14 @@
+.content {
+    margin-left: 220px;
+    padding-top: 20px;
+}
+
+.card {
+    margin: 5px;
+    float: left;
+}
+
+.card-img-top {
+    height: 250px;
+    width: 200px;
+}
